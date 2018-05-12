@@ -1,6 +1,11 @@
 {
-    "input_path":"pictures",
-    "output_path" : "output",
+    "video_input_path":"video",
+    "video_2_pictures_path" : "pictures",
+    "output_path":"output",
     "rate":0.2,
-    "time":10
+    "time":1,
+    "bit":15,
+    "resolution":"1920x1080",
+    "ffmpeg":"/anaconda2/envs/py3.6/bin//ffmpeg"
+
 }
