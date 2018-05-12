@@ -1,0 +1,6 @@
+{
+    "input_path":"pictures",
+    "output_path" : "output",
+    "rate":0.2,
+    "time":10
+}
