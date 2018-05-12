@@ -1,11 +1,12 @@
 {
-    "video_input_path":"video",
+    "video_input_path":"2018-1-1",
     "video_2_pictures_path" : "pictures",
     "output_path":"output",
     "rate":0.2,
-    "time":1,
+    "time":2,
     "bit":15,
-    "resolution":"1920x1080",
-    "ffmpeg":"/anaconda2/envs/py3.6/bin//ffmpeg"
+    "resolution":"2048x1536",
+    "ffmpeg":"/anaconda2/envs/py3.6/bin//ffmpeg",
+    "classifier":"haarascade/haarcascade_frontalface_alt2.xml"
 
 }
